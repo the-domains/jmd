@@ -1,0 +1,29 @@
+name: JMD
+favicon: null
+layout_spectrum: 0.430325991474092
+typography_spectrum: 0.23785245139151812
+title: 'Joshua Michael Designs, LLC'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.14737003948539495
+  lightness: 0.9470941470935941
+  saturation: 0.07996042957529426
+  rhythmicContrast: 0.3010697888676077
+purpose: []
